@@ -8,7 +8,7 @@
 - React
 
 ## Backend end repo 
-[https://github.com/medsonmoombe/hello-react-backend-end](https://github.com/medsonmoombe/hello-rails-backend)
+[https://github.com/principles31/hello_rails_backend](https://github.com/principles31/hello_rails_backend/pull/2)
 
 ## Live Demo (if available)
 
